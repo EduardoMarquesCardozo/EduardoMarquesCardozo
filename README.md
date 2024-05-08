@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EduardoMarquesCardozo
-- 👀 I’m interested in creative proccess, doesn't matter what area of knowledge, or what programming langugae
+- 👀 I’m interested in creative proccess, doesn't matter what area of knowledge, or what programming language
 - 🌱 I’m currently learning NodeJS, React, Cypress
 - 📫 You can reach me via linkedin https://www.linkedin.com/in/eduardo-m-c/
 
